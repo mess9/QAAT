@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93d05dc4-9771-4dca-b9a2-761d6862c988" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="249" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zlt2XnOm3xxX72RBbM0qGxyoBr" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.FirstTest.findPageFactory">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.checkFindRPA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTutorilBell" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bellintegrator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PACKAGE_NAME" value="ru.bellintegrator" />
+      <option name="MAIN_CLASS_NAME" value="ru.bellintegrator.FirstTest" />
+      <option name="METHOD_NAME" value="checkFindRPA" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.checkTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTutorilBell" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bellintegrator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PACKAGE_NAME" value="ru.bellintegrator" />
+      <option name="MAIN_CLASS_NAME" value="ru.bellintegrator.FirstTest" />
+      <option name="METHOD_NAME" value="checkTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.findPageFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTutorilBell" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bellintegrator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PACKAGE_NAME" value="ru.bellintegrator" />
+      <option name="MAIN_CLASS_NAME" value="ru.bellintegrator.FirstTest" />
+      <option name="METHOD_NAME" value="findPageFactory" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.findPageObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTutorilBell" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bellintegrator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PACKAGE_NAME" value="ru.bellintegrator" />
+      <option name="MAIN_CLASS_NAME" value="ru.bellintegrator.FirstTest" />
+      <option name="METHOD_NAME" value="findPageObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.secondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumTutorilBell" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bellintegrator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="PACKAGE_NAME" value="ru.bellintegrator" />
+      <option name="MAIN_CLASS_NAME" value="ru.bellintegrator.FirstTest" />
+      <option name="METHOD_NAME" value="secondTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FirstTest.checkTitle" />
+      <item itemvalue="JUnit.FirstTest.checkFindRPA" />
+      <item itemvalue="JUnit.FirstTest.secondTest" />
+      <item itemvalue="JUnit.FirstTest.findPageObject" />
+      <item itemvalue="JUnit.FirstTest.findPageFactory" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FirstTest.findPageFactory" />
+        <item itemvalue="JUnit.FirstTest.checkFindRPA" />
+        <item itemvalue="JUnit.FirstTest.checkTitle" />
+        <item itemvalue="JUnit.FirstTest.findPageObject" />
+        <item itemvalue="JUnit.FirstTest.secondTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93d05dc4-9771-4dca-b9a2-761d6862c988" name="Default" comment="" />
+      <created>1585200416385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585200416385</updated>
+      <workItem from="1585425306058" duration="5827000" />
+      <workItem from="1585468706419" duration="1174000" />
+      <workItem from="1585483777130" duration="151000" />
+      <workItem from="1585600420858" duration="1602000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="213" key="#Project_Structure" timestamp="1585425955887">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="552" y="213" key="#Project_Structure/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585425955887" />
+    <state x="414" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585429160634">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="414" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585429160634" />
+    <state x="740" y="296" key="FileChooserDialogImpl" timestamp="1585483929191">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="740" y="296" key="FileChooserDialogImpl/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585483929191" />
+    <state width="914" height="170" key="GridCell.Tab.0.bottom" timestamp="1585439814440">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="170" key="GridCell.Tab.0.bottom/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585439814440" />
+    <state width="914" height="170" key="GridCell.Tab.0.center" timestamp="1585439814439">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="170" key="GridCell.Tab.0.center/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585439814439" />
+    <state width="914" height="170" key="GridCell.Tab.0.left" timestamp="1585439814439">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="170" key="GridCell.Tab.0.left/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585439814439" />
+    <state width="914" height="170" key="GridCell.Tab.0.right" timestamp="1585439814439">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state width="914" height="170" key="GridCell.Tab.0.right/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585439814439" />
+    <state x="461" y="197" key="SettingsEditor" timestamp="1585476324281">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="461" y="197" key="SettingsEditor/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585476324281" />
+    <state x="597" y="250" key="new project wizard" timestamp="1585603820226">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="597" y="250" key="new project wizard/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1585427791495" />
+    <state x="597" y="250" key="new project wizard/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585603820226" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="SeleniumTutorilBell" type="b2602c69:ProjectViewProjectNode" />
+        <item name="SeleniumTutorilBell" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SeleniumTutorilBell$FirstTest_checkFindRPA.ic" NAME="FirstTest.checkFindRPA Coverage Results" MODIFIED="1585429364690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.bellintegrator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SeleniumTutorilBell$FirstTest_checkTitle.ic" NAME="FirstTest.checkTitle Coverage Results" MODIFIED="1585429269207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.bellintegrator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SeleniumTutorilBell$FirstTest_findPageFactory.ic" NAME="FirstTest.findPageFactory Coverage Results" MODIFIED="1585429429196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.bellintegrator.*</FILTER>
+    </SUITE>
+  </component>
+</project>

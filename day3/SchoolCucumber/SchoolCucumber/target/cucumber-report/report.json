@@ -1,0 +1,487 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 6949120,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_01()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1438440,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_02()"
+            }
+          }
+        ],
+        "line": 10,
+        "name": "SC0",
+        "description": "",
+        "id": "без-разницы;sc0;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 1469240,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_03()"
+            }
+          },
+          {
+            "result": {
+              "duration": 533560,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_02()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1828120,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_01()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15729440,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "вывод k1 и z1 из списка",
+            "match": {
+              "arguments": [
+                {
+                  "val": "k1",
+                  "offset": 6
+                },
+                {
+                  "val": "z1",
+                  "offset": 11
+                }
+              ],
+              "location": "MyStepDef.выводКлючИЗначениеИзСписка(String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@otladish"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1028080,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_01()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2603560,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_02()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "SC0",
+        "description": "",
+        "id": "без-разницы;sc0;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 957040,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_03()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1537840,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_02()"
+            }
+          },
+          {
+            "result": {
+              "duration": 1672200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_01()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1382400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "вывод k2 и z2 из списка",
+            "match": {
+              "arguments": [
+                {
+                  "val": "k2",
+                  "offset": 6
+                },
+                {
+                  "val": "z2",
+                  "offset": 11
+                }
+              ],
+              "location": "MyStepDef.выводКлючИЗначениеИзСписка(String,String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@otladish"
+          }
+        ]
+      }
+    ],
+    "name": "Без разницы",
+    "description": "  Без разницы описание",
+    "id": "без-разницы",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/MultiData.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1104040,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_01()"
+            }
+          },
+          {
+            "result": {
+              "duration": 14908480,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_02()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Тайтл равен Bell Integrator",
+        "description": "",
+        "id": "проверка-возможностей;тайтл-равен-bell-integrator",
+        "after": [
+          {
+            "result": {
+              "duration": 551680,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_03()"
+            }
+          },
+          {
+            "result": {
+              "duration": 278680,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_02()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2152560,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_01()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "error_message": "java.lang.IllegalStateException: The driver executable does not exist: C:\\temp\\chromedriver.exe\r\n\tat com.google.common.base.Preconditions.checkState(Preconditions.java:199)\r\n\tat org.openqa.selenium.remote.service.DriverService.checkExecutable(DriverService.java:121)\r\n\tat org.openqa.selenium.remote.service.DriverService.findExecutable(DriverService.java:116)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService.access$000(ChromeDriverService.java:32)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService$Builder.findDefaultExecutable(ChromeDriverService.java:137)\r\n\tat org.openqa.selenium.remote.service.DriverService$Builder.build(DriverService.java:296)\r\n\tat org.openqa.selenium.chrome.ChromeDriverService.createDefaultService(ChromeDriverService.java:88)\r\n\tat org.openqa.selenium.chrome.ChromeDriver.\u003cinit\u003e(ChromeDriver.java:116)\r\n\tat ru.bellintegrator.test.Steps.открытьХром(Steps.java:16)\r\n\tat ru.bellintegrator.test.MyStepDef.перейти_на_сайт(MyStepDef.java:15)\r\n\tat ✽.перейти на сайт \u0027http://www.bellintegrator.ru/\u0027(file:src/test/java/features/checkTitle.feature:6)\r\n",
+              "duration": 517191440,
+              "status": "failed"
+            },
+            "line": 6,
+            "name": "перейти на сайт \u0027http://www.bellintegrator.ru/\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.bellintegrator.ru/",
+                  "offset": 17
+                }
+              ],
+              "location": "MyStepDef.перейти_на_сайт(String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1974200,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "тайтл равен \u0027Bell Integrator\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Bell Integrator",
+                  "offset": 13
+                }
+              ],
+              "location": "MyStepDef.тайтлРавенBellIntegrator(String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1443640,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "закончить работу",
+            "match": {
+              "location": "MyStepDef.закончитьРаботу()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@otladish"
+          }
+        ]
+      }
+    ],
+    "name": "Проверка возможностей",
+    "description": "  Проверяем тайтл этой фичей",
+    "id": "проверка-возможностей",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/checkTitle.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 581640,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_01()"
+            }
+          },
+          {
+            "result": {
+              "duration": 2861560,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.start_02()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Проверка возможностей",
+        "description": "",
+        "id": "возможности;проверка-возможностей",
+        "after": [
+          {
+            "result": {
+              "duration": 1228800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_03()"
+            }
+          },
+          {
+            "result": {
+              "duration": 312120,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_02()"
+            }
+          },
+          {
+            "result": {
+              "duration": 526440,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.end_01()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26679120,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "вывести список",
+            "match": {
+              "location": "MyStepDef.вывестиСписок(String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Файл"
+                ]
+              },
+              {
+                "cells": [
+                  "Редактировать"
+                ]
+              },
+              {
+                "cells": [
+                  "Изменить"
+                ]
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 17709040,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "вывести таблицу",
+            "match": {
+              "location": "MyStepDef.вывестиТаблицу(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Файл",
+                  "true"
+                ]
+              },
+              {
+                "cells": [
+                  "Редактировать",
+                  "false"
+                ]
+              },
+              {
+                "cells": [
+                  "Изменить",
+                  "true"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 12594840,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "вывести название доступных пунктов",
+            "match": {
+              "location": "MyStepDef.вывестиНазваниеДоступныхПунктов(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Название",
+                  "Доступен",
+                  "Количество подменю"
+                ]
+              },
+              {
+                "cells": [
+                  "Файл",
+                  "true",
+                  "2"
+                ]
+              },
+              {
+                "cells": [
+                  "Редактировать",
+                  "false",
+                  "6"
+                ]
+              },
+              {
+                "cells": [
+                  "Изменить",
+                  "true",
+                  "99"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@otladish"
+          }
+        ]
+      }
+    ],
+    "name": "Возможности",
+    "description": "  Остальные возможности",
+    "id": "возможности",
+    "keyword": "Feature",
+    "uri": "file:src/test/java/features/voznoznosti.feature",
+    "tags": []
+  }
+]
