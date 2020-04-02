@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd0e3940-bf92-484e-8c8b-4e574c8d7530" name="Default Changelist" comment="" />
+    <list default="true" id="bd0e3940-bf92-484e-8c8b-4e574c8d7530" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/HomeWorkLection2_from_Fil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/ru/yandex/WebDriverSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/ru/yandex/testYandex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/tasks.hs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/tasks.hs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +31,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,6 +42,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Znnsi7MgNknZ5HFoQqi8QcBEhW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,7 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../day1/example-java/lection1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,6 +93,7 @@
       <workItem from="1585483938883" duration="600000" />
       <workItem from="1585498172464" duration="843000" />
       <workItem from="1585588528002" duration="56000" />
+      <workItem from="1585787677309" duration="44000" />
     </task>
     <servers />
   </component>
