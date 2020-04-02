@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87631dfa-ad53-429a-acfc-55e9fdcd5b69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/HomeWorkLection2_from_Fil.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/src/test/java/ru/yandex/WebDriverSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWork2_from_Fil/src/test/java/ru/yandex/testYandex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/bellintegrator/PageFactoryBellintegrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/bellintegrator/PageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/bellintegrator/WebDriverSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/bellintegrator/firstTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a0FWp59Y1h77r9epGw0Wm9JcZI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="firstTest.checkTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lection2onSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bellintegrator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.bellintegrator" />
+      <option name="MAIN_CLASS_NAME" value="ru.bellintegrator.firstTest" />
+      <option name="METHOD_NAME" value="checkTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.firstTest.checkTitle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87631dfa-ad53-429a-acfc-55e9fdcd5b69" name="Default Changelist" comment="" />
+      <created>1585864638251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585864638251</updated>
+      <workItem from="1585864643374" duration="326000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585864820020">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="414" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585864820020" />
+    <state x="440" y="129" key="SettingsEditor" timestamp="1585864970681">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="440" y="129" key="SettingsEditor/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585864970681" />
+  </component>
+</project>
