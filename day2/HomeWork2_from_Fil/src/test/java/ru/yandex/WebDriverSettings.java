@@ -16,9 +16,10 @@ public class WebDriverSettings {
     WebDriver chromeDriver;
 
     @BeforeEach
-    public void setupChromeDriver(){
+    private void setupChromeDriver(){
 
-        WebDriverManager.chromedriver().setup();
+        //WebDriverManager.chromedriver().setup();
+        System.setProperty("webdriver.chrome.driver", System.getenv("CHROME_DRIVER"));
         chromeDriver = new ChromeDriver();
         chromeDriver.manage().window().setSize(new Dimension(1280,1024));
         chromeDriver.manage().timeouts().pageLoadTimeout(500, TimeUnit.SECONDS);
@@ -28,7 +29,7 @@ public class WebDriverSettings {
     }
 
     @AfterEach
-    public void closeTest(){
+    private void closeTest(){
         chromeDriver.quit();
         System.out.println("End Test.");
     }

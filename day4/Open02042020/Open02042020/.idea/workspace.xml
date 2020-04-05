@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eff1dfc5-fe93-449f-b90f-e4f50037cc9a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/HomeWork2_Fil_v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/src/test/java/test/CustomUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageObject/GoogleResultsSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/src/test/java/test/seleniumUI/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/src/test/java/test/seleniumUI/WebDriverSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/target/test-classes/test/CustomUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/PageObject/GoogleResultsSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/Tests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/WebDriverSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/HomeWork/testUI/CustomUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Open02042020.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/bin/allure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/bin/allure.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/config/allure-cucumber.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/config/allure-junit.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/config/allure.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/allure-commandline-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/allure-generator-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/allure-plugin-api-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/allure1-model-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/allure2-model-api-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/allure2-model-jackson-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/allure2-model-pojo-1.0-BETA4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/commons-codec-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/commons-io-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/config/jetty-logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/config/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/flexmark-0.27.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/flexmark-util-0.27.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/freemarker-2.3.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/httpclient-4.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/httpcore-4.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jackson-annotations-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jackson-core-2.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jackson-databind-2.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jackson-dataformat-xml-2.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jackson-dataformat-yaml-2.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jackson-module-jaxb-annotations-2.9.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jaxb-api-2.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jaxb-utils-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jcommander-1.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jetty-http-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jetty-io-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jetty-server-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/jetty-util-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/properties-2.0.RC5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/slf4j-api-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/slf4j-log4j12-1.7.25.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/snakeyaml-1.18.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/stax2-api-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/tika-core-1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/lib/woodstox-core-5.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/behaviors-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/behaviors-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/behaviors-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/custom-logo-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/custom-logo-plugin/static/custom-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/custom-logo-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/junit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/junit-xml-plugin/junit-xml-plugin-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/packages-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/packages-plugin/plugin.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/packages-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/screen-diff-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/screen-diff-plugin/static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/screen-diff-plugin/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/trx-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/trx-plugin/trx-plugin-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/xctest-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/xctest-plugin/lib/xmlwise-1.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/xctest-plugin/xctest-plugin-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/xunit-xml-plugin/allure-plugin.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.allure/allure-2.4.1/plugins/xunit-xml-plugin/xunit-xml-plugin-2.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_java_commons_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_junit5_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_junit_platform_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_qameta_allure_allure_model_2_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tika_tika_core_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jooq_joor_java_8_0_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Open02042020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d86d91f-9aea-4a3c-a746-df25f523ccc7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2830d42b-6198-4ea3-a99f-03cbf57a051d-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/512b077b-3435-437a-bc50-b84ec5ae794b-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5966e739-b577-4de3-a4d2-1b39e4601428-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/74d0b534-b9e3-4c7d-9d48-7a169a1655b5-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/af981358-7e5a-4ff4-85f8-d8b212ba1a31-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/allure.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/be9897f7-d330-4226-b9ad-88e95365989d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bfaccc42-408c-44b5-9780-0307aa0a3e03-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/de906cbd-2db4-41aa-b429-ce8d2077c38e-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/executor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f2e93839-da8e-47cd-99ab-4ddb0a12da8b-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f89ecaa6-bfdc-4687-bd8c-f26086be112b-attachment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/CustimUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ui/WebDrivarSettings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ui/pageObject/GoogleResultSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ui/pageObject/OpenMainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ui/ru/open/Steps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/ui/ru/open/Tests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/CustimUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/ui/WebDrivarSettings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/ui/pageObject/GoogleResultSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/ui/pageObject/OpenMainPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/ui/ru/open/Steps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test/ui/ru/open/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/HomeWorkLection2_from_Fil.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/HomeWorkLection2_from_Fil.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/com/google/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/com/google/WebDriverSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/com/google/pageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/com/google/pageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/com/google/testGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/com/google/testGoogle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/ru/yandex/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/src/test/java/ru/yandex/WebDriverSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/target/test-classes/ru/yandex/WebDriverSettings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/target/test-classes/ru/yandex/WebDriverSettings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/target/test-classes/ru/yandex/testYandex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../day2/HomeWork2_from_Fil/target/test-classes/ru/yandex/testYandex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../qestions.hs" beforeDir="false" afterPath="$PROJECT_DIR$/../../../qestions.hs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\java\QAAT\day4\Open02042020\Open02042020\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="9.0" />
+  </component>
+  <component name="ProjectId" id="1a3YigsUWcLGpUyYncHhgLVloLM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+      <recent name="test.ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Tests.testWithStep">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.checkExchangeRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Open02042020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ui.ru.open.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ui.ru.open" />
+      <option name="MAIN_CLASS_NAME" value="test.ui.ru.open.Tests" />
+      <option name="METHOD_NAME" value="checkExchangeRate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.checkOpen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Open02042020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ui.ru.open.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ui.ru.open" />
+      <option name="MAIN_CLASS_NAME" value="test.ui.ru.open.Tests" />
+      <option name="METHOD_NAME" value="checkOpen" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests.testWithStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Open02042020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ui.ru.open.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ui.ru.open" />
+      <option name="MAIN_CLASS_NAME" value="test.ui.ru.open.Tests" />
+      <option name="METHOD_NAME" value="testWithStep" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Tests.checkExchangeRate" />
+      <item itemvalue="JUnit.Tests.checkOpen" />
+      <item itemvalue="JUnit.Tests.testWithStep" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Tests.testWithStep" />
+        <item itemvalue="JUnit.Tests.checkExchangeRate" />
+        <item itemvalue="JUnit.Tests.checkOpen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eff1dfc5-fe93-449f-b90f-e4f50037cc9a" name="Default" comment="" />
+      <created>1585810321204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585810321204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Tests_checkExchangeRate - 2020.04.02 at 12h 01m 25s.xml">
+      <configuration name="Tests.checkExchangeRate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_checkExchangeRate - 2020.04.02 at 12h 07m 16s.xml">
+      <configuration name="Tests.checkExchangeRate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_checkOpen - 2020.04.02 at 11h 51m 09s.xml">
+      <configuration name="Tests.checkOpen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_checkOpen - 2020.04.02 at 11h 56m 48s.xml">
+      <configuration name="Tests.checkOpen" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_testWithStep - 2020.04.02 at 12h 12m 44s.xml">
+      <configuration name="Tests.testWithStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_testWithStep - 2020.04.02 at 12h 14m 20s.xml">
+      <configuration name="Tests.testWithStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_testWithStep - 2020.04.02 at 12h 30m 12s.xml">
+      <configuration name="Tests.testWithStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_testWithStep - 2020.04.02 at 12h 37m 43s.xml">
+      <configuration name="Tests.testWithStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_testWithStep - 2020.04.02 at 12h 46m 12s.xml">
+      <configuration name="Tests.testWithStep" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Tests_testWithStep - 2020.04.02 at 12h 48m 42s.xml">
+      <configuration name="Tests.testWithStep" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="133" key="SettingsEditor" timestamp="1585966041344">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="0" y="133" key="SettingsEditor/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585966041344" />
+  </component>
+</project>

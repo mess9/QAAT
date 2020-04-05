@@ -9,5 +9,8 @@
         <module name="HomeWorkLection2_from_Fil" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HomeWorkLection2_from_Fil" target="13" />
+    </bytecodeTargetLevel>
   </component>
 </project>
