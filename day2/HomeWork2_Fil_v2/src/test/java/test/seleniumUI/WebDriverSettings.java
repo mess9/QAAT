@@ -18,13 +18,17 @@ public class WebDriverSettings {
         //настройки хром драйвера
         System.setProperty("webdriver.chrome.driver", System.getenv("CHROME_DRIVER"));
         //WebDriverManager.chromedriver().setup();
-        ChromeOptions options = new ChromeOptions();
-        options.addArguments("--windows-size=1024,768");
-        driver = new ChromeDriver(options);
+//        ChromeOptions options = new ChromeOptions();
+//        options.addArguments("--windows-size=1024,768");
+//        driver = new ChromeDriver(options);
         //chromeDriver.manage().window().setSize(new Dimension(1280,1024));
+        driver = new ChromeDriver();
+        driver.manage().window().maximize();
         driver.manage().timeouts().pageLoadTimeout(500, TimeUnit.SECONDS);
         driver.manage().timeouts().setScriptTimeout(500, TimeUnit.SECONDS);
         driver.manage().timeouts().implicitlyWait(500, TimeUnit.SECONDS);
+
+
     }
 
     @AfterEach

@@ -1,5 +1,8 @@
 package test;
 
+import java.util.List;
+import java.util.Map;
+
 public class CustomUtils {
 
     // ожидание на N секунд
@@ -15,4 +18,15 @@ public class CustomUtils {
         System.out.println("✓ - ✓ - ✓ - Test passed - ✓ - ✓ - ✓");
     }
 
+    public static Double strToFloatCurrency(List<Map<String, String>> collect, String Currency, String buy_or_sell){
+        String value = collect.stream()
+                .filter(x -> x.get("Валюта").equals(Currency)).findFirst()
+                .get() //почему два гета подряд?
+                .get(buy_or_sell).replace(",", ".");
+        Double currencyDouble = Double.valueOf(value);
+        return currencyDouble;
+
+    }
+
 }
+

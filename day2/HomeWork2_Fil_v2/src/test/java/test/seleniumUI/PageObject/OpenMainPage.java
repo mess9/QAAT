@@ -29,13 +29,13 @@ public class OpenMainPage {
         ExchangeRatesBlock = driver.findElement(By.xpath(selectorExchangeRatesBlock)); //получаем саму таблицу целиком
     }
 
-    public List<Map<String,String>> getExchangeBlock() {
+    public List<Map<String, String>> getExchangeBlock() {
         //ExchangeRatesBlock.findElements(By.xpath(selectorExchangeRatesBlock)); //получаем саму таблицу целиком
         List<WebElement> tableHeaders = ExchangeRatesBlock.findElements(By.xpath(selectorTableHeaders)); //получаем лист хидеров
         List<WebElement> tableRows = ExchangeRatesBlock.findElements(By.xpath(selectorTableRows)); //получаем элементы столбцов таблицы
 
-        //как оно работает??? ААААААААААаааааааа
-        for (int i = 0; i < tableRows.size(); i++) {
+        //формируем красивую карту с ключ(из header) значение (из row)
+        for (int i = 0; i < tableRows.size(); ++i) {
             Map<String, String> collectionRow = new HashMap<>();
             for (int j = 0; j < tableHeaders.size(); ++j) {
                 collectionRow.put(

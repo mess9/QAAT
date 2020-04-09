@@ -127,7 +127,8 @@ public class FirshApiTest {
         data.put("name","Fil");
         data.put("job", "student");
 
-        Response newUserResponse = (Response)         given()
+        Response newUserResponse = (Response)
+                given()
                 .contentType("application/json")
                 .body(data)
                 .when()

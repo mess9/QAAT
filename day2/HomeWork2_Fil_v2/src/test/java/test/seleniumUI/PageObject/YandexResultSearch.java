@@ -15,8 +15,9 @@ public class YandexResultSearch {
     private String selectorSearchResultListHREF = "//h2/a";
     private String selectorSearchResult = "//*[@id=\"search-result\"]/li[not(@data-fast-wzrd)]";
     private String selectroURL = ".//a[contains(@class,\"organic__url\")]" ;
-    private String selectorDescription = ".//span[@class=\"extended-text__short\"]" ;
     private String selectroNamePage = ".//h2//*[contains(@class,\"text\")]" ;
+    private String selectorDescription = ".//span[@class=\"extended-text__short\"]" ; //c описание накладочка вышла
+
 
 
 
@@ -59,10 +60,11 @@ public class YandexResultSearch {
                     "URL", result.findElement(By.xpath(selectroURL)).getAttribute("href"),
                     "NAME_PAGE", result.findElement(By.xpath(selectroNamePage)).getText()
                     //на описание так и не смог подобрать универсальный селектор (
+                    //поэтому пусть будет не универсальный, на основные блоки, к которым есть норм описание
+                    //@СДЕЛАТЬ@ реализовать проверку на заполнение этого ключа нулевыми элементами @СДЕЛАТЬ@
                     //"DESCRIPTION", result.findElement(By.xpath(selectorDescription)).getText()
             ));
         }
         return collectSearchResult;
     }
-    
 }

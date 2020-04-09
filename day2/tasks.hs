@@ -26,6 +26,8 @@ https://habr.com/ru/post/337700/#o-08 - про junit 5
 http://citforum.ru/internet/xpath/xpath04.shtml - основные функции xpath
 http://citforum.ru/internet/xpath/index.shtml - в целом набор знаний по xpath
 
+https://habr.com/ru/company/sberbank/blog/359302/ -- про алюр отчёты
+
 
 
 Критерии оценки заданий по UI:
@@ -109,9 +111,16 @@ API
 Java, JUnit, Selenium, PageFactory
 
 
+Задание 3.1
+По рест асуред.
+Перейти на https://www.sberbank-ast.ru/purchaseList.aspx
+Найти закупки по 44-фз
+Получить из первых 50 ссылки на закупки, номер закупки для закупок с ценой менее 4 млн
 
 
 
+
+https://livesql.oracle.com/apex/f?p=590:1000
 
 
 
