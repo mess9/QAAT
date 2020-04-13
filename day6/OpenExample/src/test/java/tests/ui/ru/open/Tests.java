@@ -52,14 +52,14 @@ public class Tests extends WebDriverSettings{
         List<Map<String,Object>> collectExchangeRates = openPage.getCollectExchangeRates();
 
         Assert.assertTrue("USD Exchange Rate not valid",
-                Double.valueOf(
+                Double.parseDouble(
                         collectExchangeRates.stream()
                                 .filter(x -> x.get("Валюта обмена").equals("USD"))
                                 .findFirst()
                                 .get().get("Покупка").toString().replace(",",".")
                         )
                         <
-                        Double.valueOf(
+                        Double.parseDouble(
                                 collectExchangeRates.stream()
                                         .filter(x -> x.get("Валюта обмена").equals("USD"))
                                         .findFirst()
@@ -68,14 +68,14 @@ public class Tests extends WebDriverSettings{
         );
 
         Assert.assertTrue("EUR Exchange Rate not valid",
-                Double.valueOf(
+                Double.parseDouble(
                         collectExchangeRates.stream()
                                 .filter(x -> x.get("Валюта обмена").equals("EUR"))
                                 .findFirst()
                                 .get().get("Покупка").toString().replace(",",".")
                 )
                         <
-                        Double.valueOf(
+                        Double.parseDouble(
                                 collectExchangeRates.stream()
                                         .filter(x -> x.get("Валюта обмена").equals("EUR"))
                                         .findFirst()
@@ -102,14 +102,14 @@ public class Tests extends WebDriverSettings{
         List<Map<String,Object>> collectExchangeRates = openPage.getCollectExchangeRates();
 
         Assert.assertTrue("USD Exchange Rate not valid",
-                Double.valueOf(
+                Double.parseDouble(
                         collectExchangeRates.stream()
                                 .filter(x -> x.get("Валюта обмена").equals("USD"))
                                 .findFirst()
                                 .get().get("Покупка").toString().replace(",",".")
                 )
                         <
-                        Double.valueOf(
+                        Double.parseDouble(
                                 collectExchangeRates.stream()
                                         .filter(x -> x.get("Валюта обмена").equals("USD"))
                                         .findFirst()
@@ -118,14 +118,14 @@ public class Tests extends WebDriverSettings{
         );
 
         Assert.assertTrue("EUR Exchange Rate not valid",
-                Double.valueOf(
+                Double.parseDouble(
                         collectExchangeRates.stream()
                                 .filter(x -> x.get("Валюта обмена").equals("EUR"))
                                 .findFirst()
                                 .get().get("Покупка").toString().replace(",",".")
                 )
                         <
-                        Double.valueOf(
+                        Double.parseDouble(
                                 collectExchangeRates.stream()
                                         .filter(x -> x.get("Валюта обмена").equals("EUR"))
                                         .findFirst()

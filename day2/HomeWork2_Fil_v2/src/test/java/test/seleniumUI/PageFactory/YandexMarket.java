@@ -24,8 +24,12 @@ public class YandexMarket {
     WebElement ButtonCatalogElectronika;
     @FindBy(how = How.XPATH, xpath = "//div/a[contains(@href,\"mobilnye-telefony\") and not(contains(@href,\"knopochnye\"))]")
     WebElement sectionSmartphone;
-    @FindBy(how = How.XPATH, xpath = "//input[@type=\"checkbox\" and contains(@name,\"Apple\")]")
+    @FindBy(how = How.XPATH, xpath = "//legend[contains(.,'Производитель')]/ancestor::fieldset//span[contains(.,'Apple')]/..")
     WebElement checkboxApple;  //input[@type=\"checkbox\" and contains(@name,\"Apple\")]"
+
+    //legend[contains(.,'Производитель')]/ancestor::fieldset//span[contains(.,'Apple')]/.. !!!
+
+
 //    @FindBy (how = How.XPATH, xpath = "//div[contains(@class,\"n-snippet-list\") and not(contains(@class,\"wrapper\"))]" )
 //    WebElement ItemList; //todo тут есть инфа о количестве в выдаче.(42)
 //    @FindBy (how = How.XPATH, xpath = "//div[contains(@class,\"n-pager-more\")]" )
@@ -50,21 +54,14 @@ public class YandexMarket {
 
     //выбираем яблоки
     public void checkApple() {
-//        Actions moveSelectionToCategory = new Actions(driver);
-//        moveSelectionToCategory.moveToElement(checkboxApple).perform();
-//        moveSelectionToCategory.moveToElement(checkboxApple).click();
- //       CustomUtils.stopSec(5);
-  //      checkboxApple.click();
-//        CustomUtils.stopSec(5);
+//       Actions moveSelectionToCategory = new Actions(driver);
+//       moveSelectionToCategory.moveToElement(checkboxApple).perform();
+//       moveSelectionToCategory.moveToElement(checkboxApple).click();
+//      CustomUtils.stopSec(5);
+       checkboxApple.click();
+      CustomUtils.stopSec(50);
 
-        try{
-            checkboxApple.click();
-        }catch (WebDriverException e){
-            JavascriptExecutor executor = (JavascriptExecutor)driver;
-            executor.executeScript("arguments[0].click()", checkboxApple);
-//            executor.executeScript(“arguments[0].click()”, checkboxApple);
 
-        }
 
 
     }

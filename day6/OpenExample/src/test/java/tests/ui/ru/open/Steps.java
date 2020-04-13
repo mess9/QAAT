@@ -42,14 +42,14 @@ public class Steps {
     @Step("Проверка курса {moneyType}")
     public static void checkCourse(OpenMainPage page, List<Map<String,Object>> tableExchange, String moneyType){
         Assert.assertTrue("USD Exchange Rate not valid",
-                Double.valueOf(
+                Double.parseDouble(
                         tableExchange.stream()
                                 .filter(x -> x.get("Валюта обмена").equals(moneyType))
                                 .findFirst()
                                 .get().get("Покупка").toString().replace(",",".")
                 )
                         <
-                        Double.valueOf(
+                        Double.parseDouble(
                                 tableExchange.stream()
                                         .filter(x -> x.get("Валюта обмена").equals(moneyType))
                                         .findFirst()

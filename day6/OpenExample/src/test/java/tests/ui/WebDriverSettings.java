@@ -24,7 +24,7 @@ public class WebDriverSettings {
         }
     }
 
-    @BeforeEach
+    //@BeforeEach
     private void startTestWithDocker(){
 
         final DesiredCapabilities capabilities = DesiredCapabilities.chrome();
@@ -44,7 +44,7 @@ public class WebDriverSettings {
     }
 
 
-    //@BeforeEach
+    @BeforeEach
     private void startTest(){
         System.setProperty("webdriver.chrome.driver", System.getenv("CHROME_DRIVER"));
         ChromeOptions options = new ChromeOptions();
