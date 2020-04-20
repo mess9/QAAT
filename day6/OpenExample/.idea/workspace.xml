@@ -2,34 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c426ac4a-e765-48ff-a5b3-f89e499203ec" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/.idea/HomeWork2_Fil_v2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day2/lection2restapi/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1b6502bc-d2d0-4f28-b958-513382cbd3c8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6c0325c9-a87d-44a8-8aae-a8a3e7eff128-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/9b346cbb-13e5-4800-93e5-db83b336237f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a83f3309-57ef-4d85-9e27-7931019cf7ef-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/cc933bc9-98bd-4ff9-901d-eac1cbfe5dca-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/fffccc40-b5f2-421c-9ae2-ce75449998df-result.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageFactory/YandexMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageFactory/YandexMarket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/PageFactory/YandexMarket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/PageFactory/YandexMarket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OpenExample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/screen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ui/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ui/WebDriverSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ui/ru/open/Steps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ui/ru/open/Steps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/ui/ru/open/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/ui/ru/open/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/screen.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testSelinide.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testSelinide.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ui/WebDriverSettings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ui/WebDriverSettings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ui/pageObject/GoogleResultSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ui/pageObject/GoogleResultSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ui/pageObject/OpenMainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ui/pageObject/OpenMainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ui/ru/open/Steps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ui/ru/open/Steps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/ui/ru/open/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/ui/ru/open/Tests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day8/APIUItests (1)/APIUItests/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day8/APIUItests (1)/APIUItests/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day8/APIUItests (1)/APIUItests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day8/APIUItests (1)/APIUItests/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../day8/APIUItests (1)/APIUItests/APIUItests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/src/test/java/test/restAPI/in/reqres/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../day2/HomeWork2_Fil_v2/src/test/java/test/restAPI/in/reqres/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selenide.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +50,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../day2/lection2restapi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FirstApi/FirstApi" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.31917632" />
@@ -105,7 +86,7 @@
       </method>
     </configuration>
     <configuration name="Tests.alertTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OpenExample" />
+      <module name="selenide" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.ui.ru.open.*" />
@@ -122,7 +103,7 @@
       </method>
     </configuration>
     <configuration name="Tests.checkExchangeRate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OpenExample" />
+      <module name="selenide" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.ui.ru.open.*" />
@@ -139,7 +120,7 @@
       </method>
     </configuration>
     <configuration name="Tests.checkExchangeRateWithStep" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OpenExample" />
+      <module name="selenide" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.ui.ru.open.*" />
@@ -156,7 +137,7 @@
       </method>
     </configuration>
     <configuration name="Tests.checkOtkr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OpenExample" />
+      <module name="selenide" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="tests.ui.ru.open.*" />
@@ -180,7 +161,7 @@
       </method>
     </configuration>
     <configuration name="testSelinide.findInGoogle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OpenExample" />
+      <module name="selenide" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="testSelinide" />
       <option name="METHOD_NAME" value="findInGoogle" />
@@ -249,9 +230,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="414" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050/-1280.77.1280.994@0.30.1920.1050" timestamp="1586585632263" />
-    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1586585521060">
+    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1587305575768">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050/-1280.30.1280.994@0.30.1920.1050" timestamp="1587305575768" />
     <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050/-1280.77.1280.994@0.30.1920.1050" timestamp="1586585521060" />
     <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1586587082827">
       <screen x="0" y="30" width="1920" height="1050" />
