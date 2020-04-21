@@ -17,10 +17,8 @@ public class PageFactoryBellintegrator {
 
     @FindBy (how = How.ID, id = "input-search")
     WebElement searchField;
-
     @FindBy ( how = How.ID, id = "button-search")
     WebElement searchButton;
-
     @FindAll(@FindBy(how = How.XPATH, using = "//*[@class=\"product-layout product-list col-xs-12\"]//h4" ))
     List<WebElement> listOfWebElement;
 
@@ -36,6 +34,7 @@ public class PageFactoryBellintegrator {
         searchField.sendKeys(stringFind);
         searchButton.click();
     }
+
 
     //метод возвращающий лист элементов
     public List<WebElement> getListOfWebElement(){

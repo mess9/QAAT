@@ -4,11 +4,13 @@ import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
+import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import org.apache.commons.io.FilenameUtils;
 
-import java.net.*;
+
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -53,27 +55,78 @@ public class Tests {
 
     }
 
-    /*API
-        Задание 2.1
+
+           /*API
+        Задание 2.2
             1.	Используя сервис https://reqres.in/ протестировать регистрацию пользователя в системе.
             2.	Необходимо создание двух тестов на успешный логи и логин с ошибкой из-за не введённого пароля
             3. Автотест необходимо написать, используя данный стек:
                 Java, JUnit, Selenium, PageFactory
      */
-
-//    @Test
-//    public void positiveReg(){
-//
-//    }
-//
-//    @Test
-//    public void negativeReg(){
-//
-//
-//    }
-
     @Test
-    public void testBlad(){
+    public void positiveReg(){
+        Specification.installSpec(requestSpec, responseSpec);
+
+        Map<String, String> data= new HashMap<String, String>();
+        data.put("email","michael.lawson@reqres.in");
+        data.put("password","teacher");
+
+        Response resp = given()
+                .contentType("application/json")
+                .body(data)
+                .when()
+                .post(EndPoints.register)
+                .then().log().all()
+                .extract()
+                .response()
+                ;
+
+        JsonPath jsonRespReg = resp.jsonPath();
+
+        Assert.assertNotNull("id - не получен!", jsonRespReg.getString("id"));
+        Assert.assertNotNull("token - не получен!", jsonRespReg.getString("token"));
+
+    }
+
+    //по неясной причине данный тест работает в одиночку, и проваливается если запускать все вместе
+    //видимо потому что подхватывает неверный код ожидания. хотя в двух местах задал 400. всё равно ждёт 200
+    //Expected status code <200> but was <400>.
+    @Test
+    public void negativeReg(){
+        Map<String, String> data= new HashMap<String, String>();
+        data.put("email","michael.lawson@reqres.in");
+        //data.put("password","teacher");
+
+        Response resp = given()
+                .when()
+                .contentType("application/json")
+                .body(data)
+                .when()
+                .post("https://reqres.in/api/register")
+                .then()
+                .statusCode(400)
+                .log().all()
+                .extract()
+                .response()
+                ;
+
+        JsonPath jsonRespReg = resp.jsonPath();
+
+    Assert.assertEquals(jsonRespReg.getString("error"),"Missing password" );
+    Assert.assertEquals(resp.getStatusCode(),400);
+
+    }
+
+    /*
+    Задание 2.3
+    Используя сервис https://reqres.in/ убедится что операция LIST <RESOURCE> возвращает данные отсортированные по годам
+    Автотест необходимо написать, используя данный стек:
+    */
+    @Test
+    public void test_trest() {
+
+        //тут будет решение.
+
 
 
     }
@@ -81,7 +134,8 @@ public class Tests {
 
 
 
-    /*
+
+
     //всё что ниже - не относится к решению задания, а упражнения для понимания, как можно и как что устроено.
     @Test
     public void test_probe() {
@@ -182,10 +236,10 @@ public class Tests {
         System.out.println(str);
 
 
-    }*/
-
-
-
-
+    }
 }
+
+
+
+
 

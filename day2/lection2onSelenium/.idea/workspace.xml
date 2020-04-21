@@ -2,94 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87631dfa-ad53-429a-acfc-55e9fdcd5b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageFactory/YandexMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/ru/YandexMarket/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/PageObject/YandexResultSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_codeborne_selenide_5_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_google_guava_guava_25_0_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_jcraft_jzlib_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__dnsjava_dnsjava_2_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__io_github_bonigarcia_webdrivermanager_3_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__io_netty_netty_all_4_0_51_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_8_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__net_lightbody_bmp_browsermob_core_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__net_lightbody_bmp_littleproxy_1_1_0_beta_bmp_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__net_lightbody_bmp_mitm_2_1_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_apache_commons_commons_compress_1_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_58.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_58.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_jsoup_jsoup_1_11_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_junit_platform_junit_platform_launcher_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_rauschig_jarchivelib_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_3_141_59.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/SelenideExample.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/build/reports/tests/1586076323270.0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/build/reports/tests/1586076323270.0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/src/test/java/selenide/PO/GoogeMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/src/test/java/selenide/PO/GoogleResultPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/src/test/java/selenide/PO/GoogleSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/src/test/java/selenide/PO/OpenMainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/src/test/java/selenide/test/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/target/test-classes/selenide/PO/GoogeMail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/target/test-classes/selenide/PO/GoogleResultPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/target/test-classes/selenide/PO/GoogleSearchPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/target/test-classes/selenide/PO/OpenMainPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../day5/SelenideExample/target/test-classes/selenide/test/Tests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/CustomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/CustomUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageObject/OpenMainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageObject/OpenMainPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageObject/YandexResultSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageObject/YandexResultSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/ru/open/Tests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/WebDriverSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/CustomUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/CustomUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/Tests.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/restAPI/in/reqres/PageFactory/INreqres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/restAPI/in/reqres/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/restAPI/in/reqres/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageFactory/YandexMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/src/test/java/test/seleniumUI/PageFactory/YandexMarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/restAPI/in/reqres/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/restAPI/in/reqres/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/PageFactory/YandexMarket.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWork2_Fil_v2/target/test-classes/test/seleniumUI/PageFactory/YandexMarket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/bellintegrator/PageFactoryBellintegrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/bellintegrator/PageFactoryBellintegrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tasks.hs" beforeDir="false" afterPath="$PROJECT_DIR$/../tasks.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/bellintegrator/PageFactoryBellintegrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/bellintegrator/PageFactoryBellintegrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/bellintegrator/firstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/bellintegrator/firstTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +33,6 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -120,7 +43,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -128,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeWork2_Fil_v2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -140,7 +62,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="JUnit.firstTest.findPageFactory">
+  <component name="RunManager" selected="JUnit.firstTest.tatata">
     <configuration name="firstTest.checkTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lection2onSelenium" />
       <extension name="coverage">
@@ -173,8 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="firstTest.tatata" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lection2onSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.bellintegrator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.bellintegrator" />
+      <option name="MAIN_CLASS_NAME" value="ru.bellintegrator.firstTest" />
+      <option name="METHOD_NAME" value="tatata" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.firstTest.tatata" />
         <item itemvalue="JUnit.firstTest.findPageFactory" />
         <item itemvalue="JUnit.firstTest.checkTitle" />
       </list>
@@ -203,7 +142,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -225,24 +164,28 @@
     </state>
     <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050/-1280.77.1280.994@0.30.1920.1050" timestamp="1586272746531" />
     <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1586204076079" />
-    <state width="1237" height="266" key="GridCell.Tab.0.bottom" timestamp="1586291777448">
-      <screen x="-1280" y="77" width="1280" height="994" />
+    <state width="1237" height="266" key="GridCell.Tab.0.bottom" timestamp="1587484870741">
+      <screen x="-1280" y="30" width="1280" height="994" />
     </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.bottom/0.30.1920.1050/-1280.30.1280.994@-1280.30.1280.994" timestamp="1587484870741" />
     <state width="1237" height="266" key="GridCell.Tab.0.bottom/0.30.1920.1050/-1280.77.1280.994@-1280.77.1280.994" timestamp="1586291777448" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585871084999" />
-    <state width="1237" height="266" key="GridCell.Tab.0.center" timestamp="1586291777448">
-      <screen x="-1280" y="77" width="1280" height="994" />
+    <state width="1237" height="266" key="GridCell.Tab.0.center" timestamp="1587484870741">
+      <screen x="-1280" y="30" width="1280" height="994" />
     </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.center/0.30.1920.1050/-1280.30.1280.994@-1280.30.1280.994" timestamp="1587484870741" />
     <state width="1237" height="266" key="GridCell.Tab.0.center/0.30.1920.1050/-1280.77.1280.994@-1280.77.1280.994" timestamp="1586291777448" />
     <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585871084999" />
-    <state width="1237" height="266" key="GridCell.Tab.0.left" timestamp="1586291777448">
-      <screen x="-1280" y="77" width="1280" height="994" />
+    <state width="1237" height="266" key="GridCell.Tab.0.left" timestamp="1587484870741">
+      <screen x="-1280" y="30" width="1280" height="994" />
     </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.left/0.30.1920.1050/-1280.30.1280.994@-1280.30.1280.994" timestamp="1587484870741" />
     <state width="1237" height="266" key="GridCell.Tab.0.left/0.30.1920.1050/-1280.77.1280.994@-1280.77.1280.994" timestamp="1586291777448" />
     <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585871084998" />
-    <state width="1237" height="266" key="GridCell.Tab.0.right" timestamp="1586291777448">
-      <screen x="-1280" y="77" width="1280" height="994" />
+    <state width="1237" height="266" key="GridCell.Tab.0.right" timestamp="1587484870741">
+      <screen x="-1280" y="30" width="1280" height="994" />
     </state>
+    <state width="1237" height="266" key="GridCell.Tab.0.right/0.30.1920.1050/-1280.30.1280.994@-1280.30.1280.994" timestamp="1587484870741" />
     <state width="1237" height="266" key="GridCell.Tab.0.right/0.30.1920.1050/-1280.77.1280.994@-1280.77.1280.994" timestamp="1586291777448" />
     <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050/-1280.78.1280.994@0.30.1920.1050" timestamp="1585871084999" />
     <state x="440" y="129" key="SettingsEditor" timestamp="1585864970681">

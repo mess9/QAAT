@@ -59,7 +59,7 @@ public class YandexMarket {
 //       moveSelectionToCategory.moveToElement(checkboxApple).click();
 //      CustomUtils.stopSec(5);
        checkboxApple.click();
-      CustomUtils.stopSec(50);
+      CustomUtils.stopSec(5);
 
 
 
